@@ -1,0 +1,4 @@
+venv/
+.env
+genai.pdf
+__pycache__/
